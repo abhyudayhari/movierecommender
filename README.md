@@ -17,3 +17,7 @@ conda install -c conda-forge scikit-surprise
 conda install scikit-learn
 
 the link to the dataset https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+check the location of files in the program
+
+
